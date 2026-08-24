@@ -26,3 +26,8 @@ const installApp = () => {
     defferedPrompt = null 
   })
 }
+
+window.addEventListener('appinstalled', e => {
+  e.preventDefault()
+  alert('installed')
+})
