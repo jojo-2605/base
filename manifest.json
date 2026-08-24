@@ -4,6 +4,7 @@
   "start_url": "index.html",
   "display": "minimal-ui",
   "theme_color": "#B13A34",
+  "background_color": "#B13A34",
   "icons": [
     {
       "src": "/icons/favicon-16x16.png",
