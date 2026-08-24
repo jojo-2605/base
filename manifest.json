@@ -33,7 +33,7 @@
       "src": "screenshot/desktop.png",
       "sizes": "1280x905",
       "type": "image/png",
-      "form_factor": " wide",
+      "form_factor": "wide",
       "label": "Accueil"
     },
     {

@@ -1,5 +1,7 @@
-import {installApp} from "./js/install"
+import {installApp} from "./js/install.js"
+import { register } from "./js/register-sw.js";
 installApp()
+register()
 
 //mode actuel ?
 const isPWA = 
